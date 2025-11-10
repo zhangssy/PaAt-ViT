@@ -1,5 +1,5 @@
-# Circular-Polarization-Basis-Implementation
-Source code for "Integrating Linear and Circular Polarization Features for PolSAR Land Cover Classification with Deep Learning" in **International Journal of Applied Earth Observation and Geoinformation**
+# PaAt-ViT-Implementation
+Source code for "Land cover classification via circular polarimetric feature representation integrated with the Physics-aware Attention Visual Transformer (PaAt-ViT)" in **International Journal of Applied Earth Observation and Geoinformation**
 
 The paper can be accessed through：*
 
@@ -7,7 +7,7 @@ The paper can be accessed through：*
 
 # Datasets:
 Two benchmark PolSAR datasets were utilized to assess the performance of the proposed method in this study. Oberpfaffenhofen and Barnaul.
-The dataset of Oberpfaffenhofen is  provided in this repository. And Barnaul dataset can be downloaded here: https://pan.baidu.com/s/1EUUpU9FGPOFtCs1P0iGO4g code: d8f5
+Both datasets are provided in this repository. 
 # Experimental Configuration
 Intel(R) Core(TM) i7-10700 CPU (2.90 GHz) and an NVIDIA GeForce 3060Ti GPU, utilizing PyTorch 3.8. 
 
@@ -19,8 +19,8 @@ To quantitatively measure the proposed method, three evaluation metrics are empl
 
 # Citation
 @article{
-  title={Integrating Linear and Circular Polarization Features for PolSAR Land Cover Classification with Deep Learning},
-  author={Shuaiying Zhang, Zhen Dong, Huadong Lin, Zhendong Zhang, Jinran Wu, Sinong Quan, Wentao An, Tong Lif, Rajiv Pandeyg},
+  title={Land cover classification via circular polarimetric feature representation integrated with the Physics-aware Attention Visual Transformer (PaAt-ViT)},
+  author={Shuaiying Zhang, Yucheng Gao, Huadong Lin, Chengyi Tu, Wentao An, Zhen Dong, Tong Li et al},
   journal={International Journal of Applied Earth Observation and Geoinformation},
   volume={},
   pages={},
@@ -29,3 +29,4 @@ To quantitatively measure the proposed method, three evaluation metrics are empl
 }
 
 Feel free to contact me : zhangshuaiying@nudt.edu.cn
+

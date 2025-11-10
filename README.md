@@ -3,7 +3,7 @@ Source code for "Land cover classification via circular polarimetric feature rep
 
 The paper can be accessed through：*
 
-![image](总体流程图)
+![image](https://github.com/zhangssy/PaAt-ViT/blob/main/Source%20code%20and%20datasets/results/flowchart.png)
 
 # Datasets:
 Two benchmark PolSAR datasets were utilized to assess the performance of the proposed method in this study. Oberpfaffenhofen and Barnaul.
@@ -13,9 +13,9 @@ Intel(R) Core(TM) i7-10700 CPU (2.90 GHz) and an NVIDIA GeForce 3060Ti GPU, util
 
 # Results
 To quantitatively measure the proposed method, three evaluation metrics are employed to verify the effectiveness of the algorithm, Overall Accuracy (OA), Average Accuracy (AA) and Cohen's Kappa (k). Also, Each class accuracy has been reported.
-![image](分类结果)
-![image](表1)
-![image](表2)
+![image](https://github.com/zhangssy/PaAt-ViT/blob/main/Source%20code%20and%20datasets/results/classification%20results.png)
+![image](https://github.com/zhangssy/PaAt-ViT/blob/main/Source%20code%20and%20datasets/results/results.png)
+![image](https://github.com/zhangssy/PaAt-ViT/blob/main/Source%20code%20and%20datasets/results/tSNE_Ober.png)
 
 # Citation
 @article{
@@ -29,4 +29,5 @@ To quantitatively measure the proposed method, three evaluation metrics are empl
 }
 
 Feel free to contact me : zhangshuaiying@nudt.edu.cn
+
 

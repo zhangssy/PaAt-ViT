@@ -1,5 +1,5 @@
 # PaAt-ViT-Implementation
-Source code for "Land cover classification via circular polarimetric feature representation integrated with the Physics-aware Attention Visual Transformer (PaAt-ViT)" in **International Journal of Applied Earth Observation and Geoinformation**
+Source code for "Land cover classification via circular polarimetric feature representation integrated with the Physics-aware Attention Visual Transformer (PaAt-ViT)" 
 
 The paper can be accessed through：*
 
@@ -21,13 +21,14 @@ To quantitatively measure the proposed method, three evaluation metrics are empl
 @article{
   title={Land cover classification via circular polarimetric feature representation integrated with the Physics-aware Attention Visual Transformer (PaAt-ViT)},
   author={Shuaiying Zhang, Yucheng Gao, Huadong Lin, Chengyi Tu, Wentao An, Zhen Dong, Tong Li et al},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
+  journal={***},
   volume={},
   pages={},
   year={},
-  publisher={Elsevier}
+  publisher={}
 }
 
 Feel free to contact me : zhangshuaiying@nudt.edu.cn
+
 
 
